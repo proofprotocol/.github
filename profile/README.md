@@ -18,7 +18,7 @@ Maintained by the **Proof Economy Standards Alliance (PESA)** under a practition
 | 4 | [ProofRegistry API Specification](../registry-api-spec) | PP-SPEC-004 | Draft | CC BY 4.0 |
 | 5 | [Witness Protocol Specification](../witness-spec) | PP-SPEC-005 | Draft | CC BY 4.0 |
 | 6 | [Proof of Efficacy Score Specification](../pes-spec) | PP-SPEC-006 | Published | CC BY 4.0 |
-| 7 | [Agent-to-Agent Proof Protocol](../a2p-spec) | PP-SPEC-007 | Draft | CC BY 4.0 |
+| 7 | [Agent-to-Agent Proof Protocol](../a2p-spec) | PP-SPEC-007 | Published | CC BY 4.0 |
 | 8 | [ProofChain Anchoring Specification](../proofchain-spec) | PP-SPEC-008 | Draft | CC BY 4.0 |
 | 9 | [ProofStamp Certification Criteria](../proofstamp-criteria) | PP-SPEC-009 | Draft | CC BY 4.0 |
 | 10 | [Legal Attestation Format](../legal-proof-format) | PP-SPEC-010 | Draft | CC BY 4.0 |
