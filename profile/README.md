@@ -128,7 +128,7 @@ ProofStamp is a certification mark of Nebulonium, Inc. Use of the ProofStamp mar
 | Proof Economy Standards Alliance | [proofeconomy.foundation](https://proofeconomy.foundation) |
 | ProofRegister | [proofregister.com](https://proofregister.com) |
 | Proof Protocol | [proofprotocol.io](https://proofprotocol.io) |
-| HACKERverse | [hackerverse.com](https://hackerverse.com) |
+| HACKERverse | [hackerverse.ai](https://hackerverse.ai) |
 | Proof Benchmark | [proofbenchmark.com](https://proofbenchmark.com) |
 
 ---
