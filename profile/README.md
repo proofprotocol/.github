@@ -28,7 +28,7 @@ Maintained by the **Proof Economy Standards Alliance (PESA)** under a practition
 
 | Document | Description |
 |----------|-------------|
-| [Declaration](../declaration) | The founding declaration of the Proof Economy — the problem, the thesis, and the commitment |
+| [Declaration](https://github.com/proofprotocol/declaration) | The founding declaration of the Proof Economy — the problem, the thesis, and the commitment |
 | [Framework](../framework) | The structural framework governing how proof artifacts are produced, witnessed, and anchored |
 
 ---
