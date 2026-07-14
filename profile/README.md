@@ -37,6 +37,7 @@ Maintained by the **Proof Economy Standards Alliance (PESA)** under a practition
 |----------|-------------|
 | [Declaration](https://github.com/proofprotocol/declaration) | The founding declaration of the Proof Economy — the problem, the thesis, and the commitment |
 | [Framework](https://github.com/proofprotocol/framework) | The structural framework governing how proof artifacts are produced, witnessed, and anchored |
+| [Threat Model](https://github.com/proofprotocol/threat-model) | The living catalog of threat categories the Proof Protocol covers — pre-dated, continuous, and adversarially executed |
 
 ---
 
