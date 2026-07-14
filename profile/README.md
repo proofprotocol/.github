@@ -26,6 +26,8 @@ Maintained by the **Proof Economy Standards Alliance (PESA)** under a practition
 | 8 | [ProofChain Anchoring Specification](https://github.com/proofprotocol/proofchain-spec) | PP-SPEC-008 | Draft | CC BY 4.0 |
 | 9 | [ProofStamp Certification Criteria](https://github.com/proofprotocol/proofstamp-criteria) | PP-SPEC-009 | Draft | CC BY 4.0 |
 | 10 | [Legal Attestation Format](https://github.com/proofprotocol/legal-proof-format) | PP-SPEC-010 | Draft | CC BY 4.0 |
+| 11 | [Proof Provenance Specification](https://github.com/proofprotocol/provenance-spec) | PP-SPEC-011 | Draft | CC BY 4.0 |
+| 12 | [Proof Protocol Domain Framework](https://github.com/proofprotocol/domain-framework) | PP-SPEC-012 | Published | CC BY 4.0 |
 
 ---
 
