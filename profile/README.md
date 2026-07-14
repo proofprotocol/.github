@@ -28,6 +28,8 @@ Maintained by the **Proof Economy Standards Alliance (PESA)** under a practition
 | 10 | [Legal Attestation Format](https://github.com/proofprotocol/legal-proof-format) | PP-SPEC-010 | Draft | CC BY 4.0 |
 | 11 | [Proof Provenance Specification](https://github.com/proofprotocol/provenance-spec) | PP-SPEC-011 | Draft | CC BY 4.0 |
 | 12 | [Proof Protocol Domain Framework](https://github.com/proofprotocol/domain-framework) | PP-SPEC-012 | Published | CC BY 4.0 |
+| 13 | [Proof of Performance](https://github.com/proofprotocol/Proof-of-Performance) | PP-SPEC-013 | Published | CC BY 4.0 |
+| 14 | [Proof of Efficacy](https://github.com/proofprotocol/Proof-of-Efficacy) | PP-SPEC-014 | Published | CC BY 4.0 |
 
 ---
 
