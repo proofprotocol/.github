@@ -1,5 +1,8 @@
 # Proof Protocol
 
+> **Zenodo DOI:** [10.5281/zenodo.21379780](https://doi.org/10.5281/zenodo.21379780) — Published 2026-07-15
+
+
 > **Agents and humans do not trust agents. They trust proof.**
 
 The Proof Protocol is an open technical specification suite for cryptographic, independently-witnessed, tamper-evident proof of AI and security system behavior. It defines what valid proof is, how it is produced, how it is anchored, and how it is certified - for human-operated security tools and autonomous agentic AI systems alike.
