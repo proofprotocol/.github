@@ -4,7 +4,7 @@
 
 The Proof Protocol is an open technical specification suite for cryptographic, independently-witnessed, tamper-evident proof of AI and security system behavior. It defines what valid proof is, how it is produced, how it is anchored, and how it is certified — for human-operated security tools and autonomous agentic AI systems alike.
 
-**Proof Protocol is not a blockchain.** No token. No wallet. No chain. No gas fees. Proof is anchored to the NIST Randomness Beacon — federal infrastructure operated by the National Institute of Standards and Technology. The stamp is earned, not minted.
+**Proof Protocol is not a blockchain.** No token. No wallet. No chain. No gas fees. Proof is anchored to the NIST Randomness Beacon - federal infrastructure operated by the National Institute of Standards and Technology. The stamp is earned, not minted.
 
 The agentic economy settles on crypto rails. It trusts on proof rails. ProofRegister is the trust oracle. ProofStamp is the signal.
 
