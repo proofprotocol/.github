@@ -2,7 +2,7 @@
 
 > **Agents and humans do not trust agents. They trust proof.**
 
-The Proof Protocol is an open technical specification suite for cryptographic, independently-witnessed, tamper-evident proof of AI and security system behavior. It defines what valid proof is, how it is produced, how it is anchored, and how it is certified — for human-operated security tools and autonomous agentic AI systems alike.
+The Proof Protocol is an open technical specification suite for cryptographic, independently-witnessed, tamper-evident proof of AI and security system behavior. It defines what valid proof is, how it is produced, how it is anchored, and how it is certified - for human-operated security tools and autonomous agentic AI systems alike.
 
 **Proof Protocol is not a blockchain.** No token. No wallet. No chain. No gas fees. Proof is anchored to the NIST Randomness Beacon - federal infrastructure operated by the National Institute of Standards and Technology. The stamp is earned, not minted.
 
@@ -37,9 +37,9 @@ Maintained by the **Proof Economy Standards Alliance (PESA)** under a practition
 
 | Document | Description |
 |----------|-------------|
-| [Declaration](https://github.com/proofprotocol/declaration) | The founding declaration of the Proof Economy — the problem, the thesis, and the commitment |
+| [Declaration](https://github.com/proofprotocol/declaration) | The founding declaration of the Proof Economy - the problem, the thesis, and the commitment |
 | [Framework](https://github.com/proofprotocol/framework) | The structural framework governing how proof artifacts are produced, witnessed, and anchored |
-| [Threat Model](https://github.com/proofprotocol/threat-model) | The living catalog of threat categories the Proof Protocol covers — pre-dated, continuous, and adversarially executed |
+| [Threat Model](https://github.com/proofprotocol/threat-model) | The living catalog of threat categories the Proof Protocol covers - pre-dated, continuous, and adversarially executed |
 
 ---
 
@@ -56,9 +56,9 @@ Every execution event is recorded as a hash-linked chain entry anchored to the p
 OBSERVED and IRRELEVANT classified cases are explicitly excluded from the denominator. A score without a denominator and case classification methodology is not a proof metric.
 
 **Witness Classes**
-- Class 1 — Automated: independent machine-generated telemetry
-- Class 2 — Human-in-Loop: human observer present during execution
-- Class 3 — Independent Third Party: no financial or organizational relationship to tester or vendor
+- Class 1 - Automated: independent machine-generated telemetry
+- Class 2 - Human-in-Loop: human observer present during execution
+- Class 3 - Independent Third Party: no financial or organizational relationship to tester or vendor
 
 **AgenTwin**
 The shadow attestation layer that witnesses agent runtime behavior from outside the agent trust boundary. Assembles receipt + pubkey + verifier output into a ProofBundle. The agent cannot forge its own receipt.
@@ -72,7 +72,7 @@ The HACKERverse certification mark awarded to proof artifacts that meet Proof-Co
 
 The following artifact types do not meet the proof standard under this specification regardless of their source, format, or authority:
 
-- Log files — including cryptographically signed logs
+- Log files - including cryptographically signed logs
 - Vendor-generated reports
 - Screenshots and video recordings
 - Post-hoc hashes
@@ -124,8 +124,8 @@ Query the registry: [api.proofregister.com/v1/records](https://api.proofregister
 
 Unless otherwise noted per specification:
 
-- **PP-SPEC-001** is released under CC BY-ND 4.0 — share with attribution, no derivatives
-- **All other specifications** are released under CC BY 4.0 — share and adapt for any purpose including commercially, with attribution
+- **PP-SPEC-001** is released under CC BY-ND 4.0 - share with attribution, no derivatives
+- **All other specifications** are released under CC BY 4.0 - share and adapt for any purpose including commercially, with attribution
 
 Attribution requirement: **Nebulonium, Inc. dba HACKERverse / Proof Economy Standards Alliance (PESA)**
 
