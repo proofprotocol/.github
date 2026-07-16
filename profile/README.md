@@ -33,8 +33,8 @@ Maintained by the **Proof Economy Standards Alliance (PESA)** under a practition
 | 12 | [Proof Protocol Domain Framework](https://github.com/proofprotocol/domain-framework) | PP-SPEC-012 | Published | CC BY 4.0 |
 | 13 | [Proof of Performance](https://github.com/proofprotocol/Proof-of-Performance) | PP-SPEC-013 | Published | CC BY 4.0 |
 | 14 | [Proof of Efficacy](https://github.com/proofprotocol/Proof-of-Efficacy) | PP-SPEC-014 | Published | CC BY 4.0 |
-| 15 | [ProofTwin - Agent Behavioral Attestation Layer](https://github.com/proofprotocol/prooftwin-spec) | PP-SPEC-015 | Draft | CC BY 4.0 |
-| 16 | [AgenTwin - Configurable Agent Under Test](https://github.com/proofprotocol/agentwin-spec) | PP-SPEC-016 | Draft | CC BY 4.0 |
+| 15 | [ProofTwin — Agent Behavioral Attestation Layer](https://github.com/proofprotocol/prooftwin-spec) | PP-SPEC-015 | Draft | CC BY 4.0 |
+| 16 | [AgenTwin — Configurable Agent Under Test](https://github.com/proofprotocol/agentwin-spec) | PP-SPEC-016 | Draft | CC BY 4.0 |
 | 17 | [PP-MCP Interface Standard](https://github.com/proofprotocol/pp-mcp-spec) | PP-SPEC-017 | Draft | CC BY 4.0 |
 
 ---
