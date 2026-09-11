@@ -19,7 +19,7 @@ Maintained by the **Proof Economy Standards Alliance (PESA)** under a practition
 
 | # | Specification | Document ID | Status | License |
 |---|---------------|-------------|--------|---------|
-| 1 | [Proof Protocol Specification](https://github.com/proofprotocol/Defensible-Knowledge-Proof) | PP-SPEC-001 | Published | CC BY-ND 4.0 |
+| 1 | [Proof Protocol Specification](https://github.com/proofprotocol/Proof-Protocol-Specification) | PP-SPEC-001 | Published | CC BY-ND 4.0 |
 | 2 | [Proof Validity Specification](https://github.com/proofprotocol/Proof-Validity-Specification) | PP-SPEC-002 | Published | CC BY 4.0 |
 | 3 | [ProofBundle Format Specification](https://github.com/proofprotocol/proofbundle-spec) | PP-SPEC-003 | Published | CC BY 4.0 |
 | 4 | [ProofRegistry API Specification](https://github.com/proofprotocol/registry-api-spec) | PP-SPEC-004 | Published | CC BY 4.0 |
