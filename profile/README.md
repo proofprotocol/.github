@@ -17,25 +17,25 @@ Maintained by the **Proof Economy Standards Alliance (PESA)** under a practition
 
 ## Specification Suite
 
-| # | Specification | Document ID | Status | License |
-|---|---------------|-------------|--------|---------|
-| 1 | [Proof Protocol Specification](https://github.com/proofprotocol/Proof-Protocol-Specification) | PP-SPEC-001 | Published | CC BY-ND 4.0 |
-| 2 | [Proof Validity Specification](https://github.com/proofprotocol/Proof-Validity-Specification) | PP-SPEC-002 | Published | CC BY 4.0 |
-| 3 | [ProofBundle Format Specification](https://github.com/proofprotocol/proofbundle-spec) | PP-SPEC-003 | Published | CC BY 4.0 |
-| 4 | [ProofRegistry API Specification](https://github.com/proofprotocol/registry-api-spec) | PP-SPEC-004 | Published | CC BY 4.0 |
-| 5 | [Witness Protocol Specification](https://github.com/proofprotocol/witness-spec) | PP-SPEC-005 | Published | CC BY 4.0 |
-| 6 | [Proof of Efficacy Score Specification](https://github.com/proofprotocol/pes-spec) | PP-SPEC-006 | Published | CC BY 4.0 |
-| 7 | [Agent-to-Agent Proof Protocol](https://github.com/proofprotocol/a2p-spec) | PP-SPEC-007 | Published | CC BY 4.0 |
-| 8 | [ProofChain Anchoring Specification](https://github.com/proofprotocol/proofchain-spec) | PP-SPEC-008 | Published | CC BY 4.0 |
-| 9 | [ProofStamp Certification Criteria](https://github.com/proofprotocol/proofstamp-criteria) | PP-SPEC-009 | Published | CC BY 4.0 |
-| 10 | [Legal Attestation Format](https://github.com/proofprotocol/legal-proof-format) | PP-SPEC-010 | Published | CC BY 4.0 |
-| 11 | [Proof Provenance Specification](https://github.com/proofprotocol/provenance-spec) | PP-SPEC-011 | Published | CC BY 4.0 |
-| 12 | [Proof Protocol Domain Framework](https://github.com/proofprotocol/domain-framework) | PP-SPEC-012 | Published | CC BY 4.0 |
-| 13 | [Proof of Performance](https://github.com/proofprotocol/Proof-of-Performance) | PP-SPEC-013 | Published | CC BY 4.0 |
-| 14 | [Proof of Efficacy](https://github.com/proofprotocol/Proof-of-Efficacy) | PP-SPEC-014 | Published | CC BY 4.0 |
-| 15 | [ProofTwin — Agent Behavioral Attestation Layer](https://github.com/proofprotocol/prooftwin-spec) | PP-SPEC-015 | Draft | CC BY 4.0 |
-| 16 | [AgenTwin — Configurable Agent Under Test](https://github.com/proofprotocol/agentwin-spec) | PP-SPEC-016 | Draft | CC BY 4.0 |
-| 17 | [PP-MCP Interface Standard](https://github.com/proofprotocol/pp-mcp-spec) | PP-SPEC-017 | Draft | CC BY 4.0 |
+| # | Specification | Document ID | Status | License | Visibility |
+|---|---------------|-------------|--------|---------|------------|
+| 1 | [Proof Protocol Specification](https://github.com/proofprotocol/Proof-Protocol-Specification) | PP-SPEC-001 | Published | CC BY-ND 4.0 | Public |
+| 2 | [Proof Validity Specification](https://github.com/proofprotocol/Proof-Validity-Specification) | PP-SPEC-002 | Published | CC BY 4.0 | Public |
+| 3 | [ProofBundle Format Specification](https://github.com/proofprotocol/proofbundle-spec) | PP-SPEC-003 | Published | CC BY 4.0 | Public |
+| 4 | [ProofRegistry API Specification](https://github.com/proofprotocol/registry-api-spec) | PP-SPEC-004 | Published | CC BY 4.0 | Public |
+| 5 | [Witness Protocol Specification](https://github.com/proofprotocol/witness-spec) | PP-SPEC-005 | Published | CC BY 4.0 | Public |
+| 6 | [Proof of Efficacy Score Specification](https://github.com/proofprotocol/pes-spec) | PP-SPEC-006 | Published | CC BY 4.0 | Public |
+| 7 | [Agent-to-Agent Proof Protocol](https://github.com/proofprotocol/a2p-spec) | PP-SPEC-007 | Published | CC BY 4.0 | Public |
+| 8 | [ProofChain Anchoring Specification](https://github.com/proofprotocol/proofchain-spec) | PP-SPEC-008 | Published | CC BY 4.0 | Public |
+| 9 | [ProofStamp Certification Criteria](https://github.com/proofprotocol/proofstamp-criteria) | PP-SPEC-009 | Published | CC BY 4.0 | Public |
+| 10 | [Legal Attestation Format](https://github.com/proofprotocol/legal-proof-format) | PP-SPEC-010 | Published | CC BY 4.0 | Public |
+| 11 | [Proof Provenance Specification](https://github.com/proofprotocol/provenance-spec) | PP-SPEC-011 | Published | CC BY 4.0 | Public |
+| 12 | [Proof Protocol Domain Framework](https://github.com/proofprotocol/domain-framework) | PP-SPEC-012 | Published | CC BY 4.0 | Public |
+| 13 | [Proof of Performance](https://github.com/proofprotocol/Proof-of-Performance) | PP-SPEC-013 | Published | CC BY 4.0 | **Private** |
+| 14 | [Proof of Efficacy](https://github.com/proofprotocol/Proof-of-Efficacy) | PP-SPEC-014 | Published | CC BY 4.0 | **Private** |
+| 15 | [ProofTwin — Agent Behavioral Attestation Layer](https://github.com/proofprotocol/prooftwin-spec) | PP-SPEC-015 | Draft | CC BY 4.0 | Public |
+| 16 | [AgenTwin — Configurable Agent Under Test](https://github.com/proofprotocol/agentwin-spec) | PP-SPEC-016 | Draft | CC BY 4.0 | Public |
+| 17 | [PP-MCP Interface Standard](https://github.com/proofprotocol/pp-mcp-spec) | PP-SPEC-017 | Draft | CC BY 4.0 | Public |
 
 ---
 
