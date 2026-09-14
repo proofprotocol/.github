@@ -130,12 +130,26 @@ Query the registry: [api.proofregister.com/v1/records](https://api.proofregister
 
 Unless otherwise noted per specification:
 
-- **PP-SPEC-001** is released under CC BY-ND 4.0 - share with attribution, no derivatives
-- **All other specifications** are released under CC BY 4.0 - share and adapt for any purpose including commercially, with attribution
+- PP-SPEC-001 is released under CC BY-ND 4.0 - share with attribution, no derivatives
+- All other specifications are released under CC BY 4.0 - share and adapt for any purpose including commercially, with attribution
 
-Attribution requirement: **Nebulonium, Inc. dba HACKERverse / Proof Economy Standards Alliance (PESA)**
+Copyright: Nebulonium, Inc. (dba HACKERverse)
 
-ProofStamp is a certification mark of Nebulonium, Inc. Use of the ProofStamp mark requires certification through ProofRegister.
+Attribution requirement: When sharing or adapting this specification, credit
+Nebulonium, Inc. (dba HACKERverse).
+
+Governance: The Proof Economy™ Standards Alliance (PESA) is an independent
+standards body currently being established (targeting 501(c)(6) nonprofit
+status) to hold governance and certification authority for this
+specification suite on a practitioner-led, vendor-neutral basis. Until PESA
+is formally constituted, Nebulonium, Inc. maintains this specification as
+its founding sponsor.
+
+Trademark notice: This license grants no rights in the Proof Protocol™,
+ProofStamp™, or PESA™ trademarks. ProofStamp™ is currently a certification
+mark of Nebulonium, Inc.; certification governance will transfer to PESA
+upon its formal incorporation. Use of these marks requires certification
+through ProofRegister™ and is not authorized by this Creative Commons license.
 
 ---
 
