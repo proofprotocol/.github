@@ -37,6 +37,16 @@ Maintained by the **Proof Economy Standards Alliance (PESA)** under a practition
 | 16 | [AgenTwin — Configurable Agent Under Test](https://github.com/proofprotocol/agentwin-spec) | PP-SPEC-016 | Draft | CC BY 4.0 | Public |
 | 17 | [PP-MCP Interface Standard](https://github.com/proofprotocol/pp-mcp-spec) | PP-SPEC-017 | Draft | CC BY 4.0 | Public |
 
+> **Note on domain implementations:** The specifications above (PP-SPEC-001
+> through PP-SPEC-017) define the domain-agnostic Proof Protocol™
+> architecture. Domain-specific implementations of that architecture are
+> numbered separately — for example, **DKP-SPEC-001** (Defensible
+> Knowledge Proof), the reference implementation for the agentic AI and
+> cybersecurity domain. Future domain implementations (financial risk,
+> clinical research, and others) will follow the same pattern rather than
+> receiving PP-SPEC numbers of their own. See PP-SPEC-001, Section
+> "Scope and Relationship to Domain Protocols," for the full architecture.
+
 ---
 
 ## Foundational Documents
