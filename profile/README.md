@@ -40,7 +40,7 @@ Maintained by the **Proof Economy Standards Alliance (PESA)** under a practition
 > **Note on domain implementations:** The specifications above (PP-SPEC-001
 > through PP-SPEC-017) define the domain-agnostic Proof Protocol™
 > architecture. Domain-specific implementations of that architecture are
-> numbered separately — for example, **DKP-SPEC-001** (Defensible
+> numbered separately, for example, **DKP-SPEC-001** (Defensible
 > Knowledge Proof), the reference implementation for the agentic AI and
 > cybersecurity domain. Future domain implementations (financial risk,
 > clinical research, and others) will follow the same pattern rather than
