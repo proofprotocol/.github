@@ -36,9 +36,13 @@ Maintained by the **Proof Economy Standards Alliance (PESA)** under a practition
 | 15 | [ProofTwin — Agent Behavioral Attestation Layer](https://github.com/proofprotocol/prooftwin-spec) | PP-SPEC-015 | Draft | CC BY 4.0 | Public |
 | 16 | [AgenTwin — Configurable Agent Under Test](https://github.com/proofprotocol/agentwin-spec) | PP-SPEC-016 | Draft | CC BY 4.0 | Public |
 | 17 | [PP-MCP Interface Standard](https://github.com/proofprotocol/pp-mcp-spec) | PP-SPEC-017 | Draft | CC BY 4.0 | Public |
+| 18-22 | *(in progress, unpublished)* | PP-SPEC-018 – PP-SPEC-022 | Draft (internal) | CC BY-ND 4.0 | Private |
+| 23 | Structural Independence and the Fidelity-at-Capture Requirement | PP-SPEC-023 | Published | CC BY-ND 4.0 | Public |
+| 24 | The Self-Attestation Oxymoron | PP-SPEC-024 | **Draft (internal)** | CC BY-ND 4.0 | Private |
+| 25 | Funding Tier Disclosure for Proof Marks | PP-SPEC-025 | **Draft (internal)** | CC BY-ND 4.0 | Private |
 
 > **Note on domain implementations:** The specifications above (PP-SPEC-001
-> through PP-SPEC-017) define the domain-agnostic Proof Protocol™
+> through PP-SPEC-025) define the domain-agnostic Proof Protocol™
 > architecture. Domain-specific implementations of that architecture are
 > numbered separately, for example, **DKP-SPEC-001** (Defensible
 > Knowledge Proof), the reference implementation for the agentic AI and
@@ -56,6 +60,7 @@ Maintained by the **Proof Economy Standards Alliance (PESA)** under a practition
 | [Declaration](https://github.com/proofprotocol/declaration) | The founding declaration of the Proof Economy - the problem, the thesis, and the commitment |
 | [Framework](https://github.com/proofprotocol/framework) | The structural framework governing how proof artifacts are produced, witnessed, and anchored |
 | [Threat Model](https://github.com/proofprotocol/threat-model) | The living catalog of threat categories the Proof Protocol covers - pre-dated, continuous, and adversarially executed |
+| [License](https://github.com/proofprotocol/license) | Why specs are split between CC BY 4.0 and CC BY-ND 4.0, and how to request derivative use of an ND-licensed spec |
 
 ---
 
@@ -81,6 +86,12 @@ The shadow attestation layer that witnesses agent runtime behavior from outside 
 
 **ProofStamp**
 The HACKERverse certification mark awarded to proof artifacts that meet Proof-Complete validity tier requirements and pass independent ProofRegister review. Meeting the Proof Protocol standard is required but not sufficient for ProofStamp certification. The stamp is earned. Not minted. Not self-declared.
+
+**Structural Independence**
+No outcome-contingent financial relationship, no ceded operational control, no reporting relationship, and no return-engagement incentive between the party capturing evidence and the party being measured. See PP-SPEC-023.
+
+**Fidelity-at-Capture**
+Whether evidence faithfully represents what an executor actually did, established through structural independence at the moment of capture, distinct from mere tamper-evidence after the fact. See PP-SPEC-023.
 
 ---
 
@@ -140,8 +151,9 @@ Query the registry: [api.proofregister.com/v1/records](https://api.proofregister
 
 Unless otherwise noted per specification:
 
-- PP-SPEC-001 is released under CC BY-ND 4.0 - share with attribution, no derivatives
-- All other specifications are released under CC BY 4.0 - share and adapt for any purpose including commercially, with attribution
+- PP-SPEC-001, and PP-SPEC-018 through PP-SPEC-025, are released under CC BY-ND 4.0 - share with attribution, no derivatives. This tier covers doctrine and positioning specifications: definitions, structural claims, and named concepts that make an originating claim rather than defining an interface.
+- All other specifications are released under CC BY 4.0 - share and adapt for any purpose including commercially, with attribution. This tier covers architecture and interface specifications intended for broad implementation.
+- See [License](https://github.com/proofprotocol/license) for the full policy rationale and how to request derivative use of an ND-licensed spec.
 
 Copyright: Nebulonium, Inc. (dba HACKERverse)
 
