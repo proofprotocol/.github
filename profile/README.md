@@ -134,12 +134,12 @@ The first certified proof run under this protocol:
 | Field | Value |
 |-------|-------|
 | Product | Pipelock v3.0.0 (agentic egress firewall) |
-| Campaign | PR-2026-00028 |
-| Total Cases | 165 |
+| Campaign | PR-2026-08338 |
+| Total Cases | 164 |
 | Applicable Cases | 164 |
-| PES Score | 99.2% containment / 100% detection |
-| NIST Beacon Pulse | 1852788 |
-| Child TTP Records | 117 |
+| PES Score | 73.2% containment / 100% detection |
+| Anchor Block | 8339 |
+| Child TTP Records | 164 |
 | Certification | ProofStamp PS-2026-00001 |
 
 Query the registry: [api.proofregister.com/v1/records](https://api.proofregister.com/v1/records)
