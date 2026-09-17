@@ -73,8 +73,7 @@ A valid proof must be structurally impossible to fabricate retroactively. This r
 Every execution event is recorded as a hash-linked chain entry anchored to the pre-execution commitment. A break in the chain is not a gap. It is an invalidation.
 
 **Proof of Efficacy Score (PES)**
-`PES = Blocked / (Blocked + Missed) × 100`
-OBSERVED and IRRELEVANT classified cases are explicitly excluded from the denominator. A score without a denominator and case classification methodology is not a proof metric.
+A single benchmark run resolves into a small set of outcome classes; PES is the scoring methodology built on top of that classification. Full methodology, denominator construction, and case classification rules are defined in [PP-SPEC-006](https://github.com/proofprotocol/pes-spec). A score reported without reference to that methodology is not a proof metric.
 
 **Witness Classes**
 - Class 1 - Automated: independent machine-generated telemetry
@@ -149,16 +148,11 @@ Query the registry: [api.proofregister.com/v1/records](https://api.proofregister
 
 ## License
 
-Unless otherwise noted per specification:
-
-- PP-SPEC-001, and PP-SPEC-018 through PP-SPEC-025, are released under CC BY-ND 4.0 - share with attribution, no derivatives. This tier covers doctrine and positioning specifications: definitions, structural claims, and named concepts that make an originating claim rather than defining an interface.
-- All other specifications are released under CC BY 4.0 - share and adapt for any purpose including commercially, with attribution. This tier covers architecture and interface specifications intended for broad implementation.
-- See [License](https://github.com/proofprotocol/license) for the full policy rationale and how to request derivative use of an ND-licensed spec.
+License terms are per-specification. See the License column in the Specification Suite table above for the current terms applicable to any individual spec. For the full policy rationale behind the license split, and how to request derivative use of an ND-licensed spec, see [License](https://github.com/proofprotocol/license).
 
 Copyright: Nebulonium, Inc. (dba HACKERverse)
 
-Attribution requirement: When sharing or adapting this specification, credit
-Nebulonium, Inc. (dba HACKERverse).
+Attribution requirement: When sharing or adapting a specification under its stated license, credit Nebulonium, Inc. (dba HACKERverse).
 
 Governance: The Proof Economy™ Standards Alliance (PESA) is an independent
 standards body currently being established (targeting 501(c)(6) nonprofit
