@@ -39,7 +39,7 @@ Maintained by the **Proof Economy Standards Alliance (PESA)** under a practition
 | 18-22 | *(in progress, unpublished)* | PP-SPEC-018 – PP-SPEC-022 | Draft (internal) | CC BY-ND 4.0 | Private |
 | 23 | [Structural Independence and the Fidelity-at-Capture Requirement](https://github.com/proofprotocol/Fidelity-at-Capture) | PP-SPEC-023 | Published | CC BY-ND 4.0 | Public |
 | 24 | [The Self-Attestation Oxymoron](https://github.com/proofprotocol/Self-Attestation-Oxymoron) | PP-SPEC-024 | **Draft (internal)** | CC BY-ND 4.0 | Private |
-| 25 | Funding Tier Disclosure for Proof Marks | PP-SPEC-025 | **Draft (internal)** | CC BY-ND 4.0 | Private |
+| 25 | [Funding Tier Disclosure for Proof Marks](https://github.com/proofprotocol/funding-tier-disclosure-oxymoron) | PP-SPEC-025 | Draft — held pending release | CC BY-ND 4.0 | Private |
 | 26 | [Proof-Derived Value and the Speculative Token Fallacy](https://github.com/proofprotocol/Proof-Derived-Value-and-the-Speculative-Token-Fallacy) | PP-SPEC-026 | Published | CC BY-ND 4.0 | Public |
 | 27 | [Proven Efficacy and the Third Axis](https://github.com/proofprotocol/proven-efficacy) | PP-SPEC-027 | Published | CC BY-ND 4.0 | Private |
 
