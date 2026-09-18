@@ -40,7 +40,7 @@ Maintained by the **Proof Economy Standards Alliance (PESA)** under a practition
 | 23 | Structural Independence and the Fidelity-at-Capture Requirement | PP-SPEC-023 | Published | CC BY-ND 4.0 | Public |
 | 24 | The Self-Attestation Oxymoron | PP-SPEC-024 | **Draft (internal)** | CC BY-ND 4.0 | Private |
 | 25 | Funding Tier Disclosure for Proof Marks | PP-SPEC-025 | **Draft (internal)** | CC BY-ND 4.0 | Private |
-| 26 | [Proof-Derived Value and the Speculative Token Fallacy](https://github.com/proofprotocol/Proof-Derived-Value) | PP-SPEC-026 | Published | CC BY-ND 4.0 | Public |
+| 26 | [Proof-Derived Value and the Speculative Token Fallacy]([https://github.com/proofprotocol/Proof-Derived-Value](https://github.com/proofprotocol/Proof-Derived-Value-and-the-Speculative-Token-Fallacy)) | PP-SPEC-026 | Published | CC BY-ND 4.0 | Public |
 | 27 | [Proven Efficacy and the Third Axis](https://github.com/proofprotocol/proven-efficacy) | PP-SPEC-027 | Published | CC BY-ND 4.0 | Private |
 
 > **Note on domain implementations:** The specifications above (PP-SPEC-001
