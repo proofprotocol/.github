@@ -11,7 +11,7 @@ The Proof Protocol is an open technical specification suite for cryptographic, i
 
 The agentic economy settles on crypto rails. It trusts on proof rails. ProofRegister is the trust oracle. ProofStamp is the signal.
 
-Maintained by the **Proof Economy Standards Alliance (PESA)** under a practitioner-led governance model. Vendors may contribute. They do not govern. Proof Economy Standards Alliance. https://doi.org/10.5281/zenodo.22830947
+Maintained by the **Proof Economy Standards Alliance (PESA)** under a practitioner-led governance model. Vendors may contribute. They do not govern. 
 
 ---
 
