@@ -105,6 +105,8 @@ For example, **DKP-SPEC-001 (Defensible Knowledge Proof)** is a domain implement
 
 ## Foundational Documents
 
+- [Proof Economy Code of Ethics](https://github.com/proofprotocol/CODE-OF-ETHICS) — Foundational ethical and institutional obligations for recognized Proof Economy participation.
+
 | Document | Description |
 |---|---|
 | [Declaration](https://github.com/proofprotocol/DECLARATION) | Founding declaration of the Proof Economy — the problem, thesis, and commitment |
