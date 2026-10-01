@@ -2,23 +2,22 @@
 
 > **Zenodo DOI:** [10.5281/zenodo.21379780](https://doi.org/10.5281/zenodo.21379780) — Published 2026-07-15
 
-
 > **Agents and humans do not trust agents. They trust proof.**
 
-The Proof Protocol is an open technical specification suite for cryptographic, independently-witnessed, tamper-evident proof of AI and security system behavior. It defines what valid proof is, how it is produced, how it is anchored, and how it is certified - for human-operated security tools and autonomous agentic AI systems alike.
+The Proof Protocol is an open technical specification suite for cryptographic, independently witnessed, tamper-evident proof of AI and security-system behavior. It defines what valid proof is, how evidence is captured, how proof is assembled, how it is anchored, and how efficacy is measured across human-operated security tools and autonomous agentic AI systems.
 
-**Proof Protocol is not a blockchain.** No token. No wallet. No chain. No gas fees. Proof is anchored to the NIST Randomness Beacon - federal infrastructure operated by the National Institute of Standards and Technology. The stamp is earned, not minted.
+**Proof Protocol is not a blockchain.** No token. No wallet. No chain. No gas fees. Proof is anchored using trusted external infrastructure, including the NIST Randomness Beacon. The stamp is earned, not minted.
 
-The agentic economy settles on crypto rails. It trusts on proof rails. ProofRegister is the trust oracle. ProofStamp is the signal.
+The agentic economy may settle on crypto rails. It trusts on proof rails. ProofRegister is the public registry. ProofStamp is the certification signal.
 
-Maintained by the **Proof Economy Standards Alliance (PESA)** under a practitioner-led governance model. Vendors may contribute. They do not govern. 
+Maintained under the emerging governance of the **Proof Economy Standards Alliance (PESA)**, with practitioner-led, vendor-neutral intent. Vendors may contribute. They do not govern.
 
 ---
 
 ## Specification Suite
 
 | # | Specification | Document ID | Status | License | Visibility |
-|---|---------------|-------------|--------|---------|------------|
+|---|---|---|---|---|---|
 | 1 | [Proof Protocol Specification](https://github.com/proofprotocol/Proof-Protocol-Specification) | PP-SPEC-001 | Published | CC BY-ND 4.0 | Public |
 | 2 | [Proof Validity Specification](https://github.com/proofprotocol/Proof-Validity-Specification) | PP-SPEC-002 | Published | CC BY 4.0 | Public |
 | 3 | [ProofBundle Format Specification](https://github.com/proofprotocol/proofbundle-spec) | PP-SPEC-003 | Published | CC BY 4.0 | Public |
@@ -31,112 +30,127 @@ Maintained by the **Proof Economy Standards Alliance (PESA)** under a practition
 | 10 | [Legal Attestation Format](https://github.com/proofprotocol/legal-proof-format) | PP-SPEC-010 | Published | CC BY 4.0 | Public |
 | 11 | [Proof Provenance Specification](https://github.com/proofprotocol/provenance-spec) | PP-SPEC-011 | Published | CC BY 4.0 | Public |
 | 12 | [Proof Protocol Domain Framework](https://github.com/proofprotocol/domain-framework) | PP-SPEC-012 | Published | CC BY 4.0 | Public |
-| 13 | Proof of Performance | PP-SPEC-013 | **Draft (internal)** | CC BY 4.0 | Private |
-| 14 | Proof of Efficacy | PP-SPEC-014 | **Draft (internal)** | CC BY 4.0 | Private |
+| 13 | Proof of Performance | PP-SPEC-013 | Draft (internal) | CC BY 4.0 | Private |
+| 14 | Proof of Efficacy | PP-SPEC-014 | Draft (internal) | CC BY 4.0 | Private |
 | 15 | [ProofTwin — Agent Behavioral Attestation Layer](https://github.com/proofprotocol/prooftwin-spec) | PP-SPEC-015 | Draft | CC BY 4.0 | Public |
 | 16 | [AgenTwin — Configurable Agent Under Test](https://github.com/proofprotocol/agentwin-spec) | PP-SPEC-016 | Draft | CC BY 4.0 | Public |
 | 17 | [PP-MCP Interface Standard](https://github.com/proofprotocol/pp-mcp-spec) | PP-SPEC-017 | Draft | CC BY 4.0 | Public |
-| 18-22 | *(in progress, unpublished)* | PP-SPEC-018 – PP-SPEC-022 | Draft (internal) | CC BY-ND 4.0 | Private |
+| 18–22 | *(in progress, unpublished)* | PP-SPEC-018 – PP-SPEC-022 | Draft (internal) | CC BY-ND 4.0 | Private |
 | 23 | [Structural Independence and the Fidelity-at-Capture Requirement](https://github.com/proofprotocol/Fidelity-at-Capture) | PP-SPEC-023 | Published | CC BY-ND 4.0 | Public |
 | 24 | [The Self-Attestation Oxymoron](https://github.com/proofprotocol/Self-Attestation-Oxymoron) | PP-SPEC-024 | Published | CC BY-ND 4.0 | Public |
-| 25 | [Funding Tier Disclosure Oxymoron](https://github.com/proofprotocol/funding-tier-disclosure-oxymoron) | PP-SPEC-025 | Draft — held pending release | CC BY-ND 4.0 | Private |
+| 25 | Funding Tier Disclosure Oxymoron | PP-SPEC-025 | Draft — held pending release | CC BY-ND 4.0 | Private |
 | 26 | [Proof-Derived Value and the Speculative Token Fallacy](https://github.com/proofprotocol/Proof-Derived-Value-and-the-Speculative-Token-Fallacy) | PP-SPEC-026 | Published | CC BY-ND 4.0 | Public |
-| 27 | [Proven Efficacy and the Third Axis](https://github.com/proofprotocol/proven-efficacy) | PP-SPEC-027 | Published | CC BY-ND 4.0 | Private |
+| 27 | [Proven Efficacy and the Third Axis](https://github.com/proofprotocol/proven-efficacy) | PP-SPEC-027 | Published | CC BY-ND 4.0 | Public |
+| 28–31 | *(reserved / in progress)* | PP-SPEC-028 – PP-SPEC-031 | Draft / reserved | — | Mixed |
+| 32 | Non-Blocking Valid Proof | PP-SPEC-032 | Published — embargoed until 2026-10-31 | CC BY-ND 4.0 | Private |
 | 33 | [Proof of Efficacy Mapping to the NIST AI RMF](https://github.com/proofprotocol/nist-ai-rmf-mapping) | PP-SPEC-033 | Published (v0.1.2) | CC BY-ND 4.0 | Public |
+| 34 | [Proof of Efficacy Mapping to OWASP AIVSS](https://github.com/proofprotocol/PP-SPEC-034-owasp-aivss-mapping) | PP-SPEC-034 | Draft v0.1 | CC BY 4.0 | Public |
+| 35 | [Proof of Efficacy Mapping to ORCHIDEAS](https://github.com/proofprotocol/PP-SPEC-035-orchideas-mapping) | PP-SPEC-035 | Draft v0.1 | CC BY 4.0 | Public |
+| 36 | [Proof of Efficacy Mapping to AAGATE](https://github.com/proofprotocol/PP-SPEC-036-aagate-mapping) | PP-SPEC-036 | Draft v0.1 | CC BY 4.0 | Public |
+| 37 | [Proof of Efficacy Mapping to A2AS BASIC](https://github.com/proofprotocol/PP-SPEC-037-a2as-basic-mapping) | PP-SPEC-037 | Draft v0.1 | CC BY 4.0 | Public |
+| 38 | [Proof of Efficacy Mapping to Agent Name Service (ANS)](https://github.com/proofprotocol/PP-SPEC-038-ans-mapping) | PP-SPEC-038 | Draft v0.1 | CC BY 4.0 | Public |
+| 39 | [Proof of Efficacy Mapping to MITRE ATLAS](https://github.com/proofprotocol/PP-SPEC-039-mitre-atlas-mapping) | PP-SPEC-039 | Draft v0.1 | CC BY 4.0 | Public |
+| 40 | [Proof of Efficacy Mapping to NIST AI 100-2](https://github.com/proofprotocol/PP-SPEC-040-nist-ai-100-2-mapping) | PP-SPEC-040 | Draft v0.1 | CC BY 4.0 | Public |
+| 41 | [Proof of Efficacy Mapping to OWASP Top 10 for Agentic Applications](https://github.com/proofprotocol/PP-SPEC-041-owasp-agentic-top10-mapping) | PP-SPEC-041 | Draft v0.1 | CC BY 4.0 | Public |
 
-> **Note on domain implementations:** The specifications above (PP-SPEC-001
-> through PP-SPEC-025) define the domain-agnostic Proof Protocol™
-> architecture. Domain-specific implementations of that architecture are
-> numbered separately, for example, **DKP-SPEC-001** (Defensible
-> Knowledge Proof), the reference implementation for the agentic AI and
-> cybersecurity domain. Future domain implementations (financial risk,
-> clinical research, and others) will follow the same pattern rather than
-> receiving PP-SPEC numbers of their own. See PP-SPEC-001, Section
-> "Scope and Relationship to Domain Protocols," for the full architecture.
+> **Framework-mapping principle:** Threat frameworks are pluggable inputs to Proof Protocol. Proof Protocol is framework-agnostic. External frameworks can identify **what to test**; Proof Protocol independently establishes **whether a control worked and what evidence proves the result**. A mapping establishes interoperability, not architectural dependency.
+
+> **Note on domain implementations:** PP-SPEC numbers identify Proof Protocol specifications. Domain implementations are numbered separately. For example, **DKP-SPEC-001** (Defensible Knowledge Proof) is a domain implementation for agentic AI and cybersecurity and is not part of the PP-SPEC numbering sequence.
 
 ---
 
 ## Foundational Documents
 
 | Document | Description |
-|----------|-------------|
-| [Declaration](https://github.com/proofprotocol/declaration) | The founding declaration of the Proof Economy - the problem, the thesis, and the commitment |
-| [Framework](https://github.com/proofprotocol/framework) | The structural framework governing how proof artifacts are produced, witnessed, and anchored |
-| [Threat Model](https://github.com/proofprotocol/threat-model) | The living catalog of threat categories the Proof Protocol covers - pre-dated, continuous, and adversarially executed |
-| [License](https://github.com/proofprotocol/license) | Why specs are split between CC BY 4.0 and CC BY-ND 4.0, and how to request derivative use of an ND-licensed spec |
+|---|---|
+| [Declaration](https://github.com/proofprotocol/DECLARATION) | Founding declaration of the Proof Economy — the problem, thesis, and commitment |
+| [Framework](https://github.com/proofprotocol/FRAMEWORK) | Structural framework governing how proof artifacts are produced, witnessed, and anchored |
+| [Threat Model](https://github.com/proofprotocol/threat-model) | Living catalog of threat categories addressed by Proof Protocol |
+| [License](https://github.com/proofprotocol/LICENSE) | Licensing policy and specification-level license terms |
 
 ---
 
 ## Core Concepts
 
-**Pre-Execution Commitment**
-A valid proof must be structurally impossible to fabricate retroactively. This requires committing a cryptographic hash of test parameters to the NIST Randomness Beacon before execution begins. Without this, any artifact can be constructed after the fact.
+### Evidence → Proof
 
-**The Proof Chain**
-Every execution event is recorded as a hash-linked chain entry anchored to the pre-execution commitment. A break in the chain is not a gap. It is an invalidation.
+Evidence is not automatically proof. Proof Protocol defines how evidence is captured, bounded, witnessed, assembled, validated, and registered so that claims can be examined independently.
 
-**Proof of Efficacy Score (PES)**
-A single benchmark run resolves into a small set of outcome classes; PES is the scoring methodology built on top of that classification. Full methodology, denominator construction, and case classification rules are defined in [PP-SPEC-006](https://github.com/proofprotocol/pes-spec). A score reported without reference to that methodology is not a proof metric.
+### Proof of Efficacy
 
-**Witness Classes**
-- Class 1 - Automated: independent machine-generated telemetry
-- Class 2 - Human-in-Loop: human observer present during execution
-- Class 3 - Independent Third Party: no financial or organizational relationship to tester or vendor
+The operative question is:
 
-**AgenTwin**
-The shadow attestation layer that witnesses agent runtime behavior from outside the agent trust boundary. Assembles receipt + pubkey + verifier output into a ProofBundle. The agent cannot forge its own receipt.
+> **Was there a control, and did it work?**
 
-**ProofStamp**
-The HACKERverse certification mark awarded to proof artifacts that meet Proof-Complete validity tier requirements and pass independent ProofRegister review. Meeting the Proof Protocol standard is required but not sufficient for ProofStamp certification. The stamp is earned. Not minted. Not self-declared.
+A control's presence, configuration, activation, detection event, and actual efficacy are different facts. Where a claim depends on a downstream protected outcome, proof requires evidence from the target, application, SIEM, vendor integration, or equivalent source sufficient to complete the evidence round trip.
 
-**Structural Independence**
-No outcome-contingent financial relationship, no ceded operational control, no reporting relationship, and no return-engagement incentive between the party capturing evidence and the party being measured. See PP-SPEC-023.
+### Framework-Agnostic Testing
 
-**Fidelity-at-Capture**
-Whether evidence faithfully represents what an executor actually did, established through structural independence at the moment of capture, distinct from mere tamper-evidence after the fact. See PP-SPEC-023.
+Proof Protocol does not require a specific threat framework. MITRE ATLAS, NIST, OWASP, AIVSS, AAGATE, ORCHIDEAS, A2AS BASIC, ANS, proprietary threat models, or other frameworks may be used as test inputs without becoming dependencies of the Proof Protocol architecture.
+
+### ProofBundle
+
+A ProofBundle packages the proof record, evidence references, metrics, corpus manifest, environment context, timestamps, and related artifacts needed to examine a result.
+
+### ProofStamp
+
+ProofStamp is a certification mark awarded to qualifying proof artifacts under the applicable certification criteria. Meeting the Proof Protocol standard may be necessary, but certification is a separate determination.
+
+### ProofRegister
+
+ProofRegister is the registry layer for issued proof records and artifacts.
+
+### Structural Independence
+
+Evidence capture must be structurally independent from the party whose claims are being measured where the proof class requires independent witnessing. See PP-SPEC-023.
+
+### Fidelity-at-Capture
+
+Tamper evidence after the fact is not enough. Proof must also address whether the evidence faithfully represented what occurred at the time of capture. See PP-SPEC-023.
 
 ---
 
-## What Is Not a Valid Proof
+## What Is Not Automatically Proof
 
-The following artifact types do not meet the proof standard under this specification regardless of their source, format, or authority:
+The following artifacts may be useful evidence, but by themselves do not establish a complete Proof Protocol result:
 
-- Log files - including cryptographically signed logs
-- Vendor-generated reports
-- Screenshots and video recordings
-- Post-hoc hashes
-- Incomplete chains
-- Self-anchored chains where the vendor controls the root of trust
-- Scores published without denominators or case classification methodology
-- Self-attesting benchmarks where the vendor controls the execution environment
+- log files, including signed logs;
+- vendor-generated reports;
+- screenshots or video;
+- post-hoc hashes;
+- incomplete evidence chains;
+- self-controlled roots of trust;
+- scores without disclosed denominator and case-classification methodology; and
+- self-attesting benchmarks where the measured party controls the execution and evidence boundary.
 
-See [PP-SPEC-002 Proof Validity Specification](https://github.com/proofprotocol/Proof-Validity-Specification) for the full exclusion criteria and validity tier definitions.
+See [PP-SPEC-002 — Proof Validity Specification](https://github.com/proofprotocol/Proof-Validity-Specification) for the applicable validity requirements.
 
 ---
 
 ## Governance
 
-The Proof Protocol is governed by the **Proof Economy Standards Alliance (PESA)**.
+The Proof Protocol specification suite is currently maintained by **Nebulonium, Inc. (dba HACKERverse®)** as founding sponsor while the **Proof Economy Standards Alliance (PESA)** governance structure is being established.
 
-PESA operates under a practitioner-and-buyer-led governance model:
+The intended governance model is practitioner-led and vendor-neutral:
 
-- Practitioners and buyers govern
-- Vendors contribute but do not hold governance seats
-- 90-day recusal rule applies to any governance member whose organization becomes a certified vendor
+- practitioners and buyers govern;
+- vendors may contribute;
+- certification authority is separated from vendor self-attestation; and
+- governance, recusal, disclosure, and integrity requirements are defined separately from technical interoperability.
 
-PESA home: [proofeconomy.foundation](https://proofeconomy.foundation)
+PESA: [proofeconomy.foundation](https://proofeconomy.foundation)
 
 ---
 
 ## Reference Implementation
 
-The reference implementation of the Proof Protocol runs on **ProofRegister**, the canonical public append-only registry where completed proof bundles are anchored and made publicly queryable. Not a blockchain. NIST Beacon anchored.
+The reference implementation uses **ProofRegister** as a public registry for proof artifacts and **ProofStamp** as the certification signal.
 
-The first certified proof run under this protocol:
+The first published proof run referenced by this project:
 
 | Field | Value |
-|-------|-------|
-| Product | Pipelock v3.0.0 (agentic egress firewall) |
+|---|---|
+| Product | Pipelock v3.0.0 |
 | Campaign | PR-2026-08338 |
 | Total Cases | 164 |
 | Applicable Cases | 164 |
@@ -145,37 +159,28 @@ The first certified proof run under this protocol:
 | Child TTP Records | 164 |
 | Certification | ProofStamp PS-2026-00001 |
 
-Query the registry: [api.proofregister.com/v1/records](https://api.proofregister.com/v1/records)
+Registry API: [api.proofregister.com/v1/records](https://api.proofregister.com/v1/records)
 
 ---
 
-## License
+## Licensing
 
-License terms are per-specification. See the License column in the Specification Suite table above for the current terms applicable to any individual spec. For the full policy rationale behind the license split, and how to request derivative use of an ND-licensed spec, see [License](https://github.com/proofprotocol/license).
+Licensing is defined per specification. The authoritative license is the license declared in the individual repository/specification.
 
-Copyright: Nebulonium, Inc. (dba HACKERverse)
+The framework-mapping series **PP-SPEC-034 through PP-SPEC-041** is licensed under **CC BY 4.0**. External frameworks, identifiers, trademarks, and source materials retain their own upstream ownership and licensing.
 
-Attribution requirement: When sharing or adapting a specification under its stated license, credit Nebulonium, Inc. (dba HACKERverse).
+Copyright: **Nebulonium, Inc. (dba HACKERverse®)**
 
-Governance: The Proof Economy™ Standards Alliance (PESA) is an independent
-standards body currently being established (targeting 501(c)(6) nonprofit
-status) to hold governance and certification authority for this
-specification suite on a practitioner-led, vendor-neutral basis. Until PESA
-is formally constituted, Nebulonium, Inc. maintains this specification as
-its founding sponsor.
+Attribution: When sharing or adapting material under CC BY 4.0, credit the applicable author / Nebulonium, Inc. (dba HACKERverse®) and indicate changes where required by the license.
 
-Trademark notice: This license grants no rights in the Proof Protocol™,
-ProofStamp™, or PESA™ trademarks. ProofStamp™ is currently a certification
-mark of Nebulonium, Inc.; certification governance will transfer to PESA
-upon its formal incorporation. Use of these marks requires certification
-through ProofRegister™ and is not authorized by this Creative Commons license.
+Creative Commons licensing does not grant trademark rights in **Proof Protocol™**, **ProofStamp™**, **ProofRegister™**, **Proof Economy™**, or related marks.
 
 ---
 
 ## Links
 
 | | |
-|--|--|
+|---|---|
 | Proof Economy Standards Alliance | [proofeconomy.foundation](https://proofeconomy.foundation) |
 | ProofRegister | [proofregister.com](https://proofregister.com) |
 | ProofRegister API | [api.proofregister.com/v1](https://api.proofregister.com/v1/) |
@@ -185,4 +190,4 @@ through ProofRegister™ and is not authorized by this Creative Commons license.
 
 ---
 
-*Copyright 2026 Nebulonium, Inc. dba HACKERverse. ProofStamp is a certification mark of Nebulonium, Inc.*
+*Copyright 2026 Nebulonium, Inc. dba HACKERverse®. ProofStamp™ is a certification mark of Nebulonium, Inc.*
