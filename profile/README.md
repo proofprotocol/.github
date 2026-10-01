@@ -18,6 +18,10 @@ Maintained under the emerging governance of the **Proof Economy Standards Allian
 
 ## Specification Suite
 
+Proof Protocol uses a numbered specification family. The suite separates the **canonical protocol architecture** from supporting technical specifications, architectural and economic papers, and **framework interoperability mappings**.
+
+### Core Protocol & Architecture
+
 | # | Specification | Document ID | Status | License | Visibility |
 |---|---|---|---|---|---|
 | 1 | [Proof Protocol Specification](https://github.com/proofprotocol/Proof-Protocol-Specification) | PP-SPEC-001 | Published | CC BY-ND 4.0 | Public |
@@ -38,26 +42,59 @@ Maintained under the emerging governance of the **Proof Economy Standards Allian
 | 16 | [AgenTwin — Configurable Agent Under Test](https://github.com/proofprotocol/agentwin-spec) | PP-SPEC-016 | Draft | CC BY 4.0 | Public |
 | 17 | [PP-MCP Interface Standard](https://github.com/proofprotocol/pp-mcp-spec) | PP-SPEC-017 | Draft | CC BY 4.0 | Public |
 | 18–22 | *(in progress, unpublished)* | PP-SPEC-018 – PP-SPEC-022 | Draft (internal) | CC BY-ND 4.0 | Private |
+
+### Architectural, Integrity & Economic Specifications
+
+| # | Specification | Document ID | Status | License | Visibility |
+|---|---|---|---|---|---|
 | 23 | [Structural Independence and the Fidelity-at-Capture Requirement](https://github.com/proofprotocol/Fidelity-at-Capture) | PP-SPEC-023 | Published | CC BY-ND 4.0 | Public |
 | 24 | [The Self-Attestation Oxymoron](https://github.com/proofprotocol/Self-Attestation-Oxymoron) | PP-SPEC-024 | Published | CC BY-ND 4.0 | Public |
 | 25 | Funding Tier Disclosure Oxymoron | PP-SPEC-025 | Draft — held pending release | CC BY-ND 4.0 | Private |
 | 26 | [Proof-Derived Value and the Speculative Token Fallacy](https://github.com/proofprotocol/Proof-Derived-Value-and-the-Speculative-Token-Fallacy) | PP-SPEC-026 | Published | CC BY-ND 4.0 | Public |
 | 27 | [Proven Efficacy and the Third Axis](https://github.com/proofprotocol/proven-efficacy) | PP-SPEC-027 | Published | CC BY-ND 4.0 | Public |
-| 28–31 | *(reserved / in progress)* | PP-SPEC-028 – PP-SPEC-031 | Draft / reserved | — | Mixed |
+| 28–31 | *(not listed publicly)* | PP-SPEC-028 – PP-SPEC-031 | — | — | — |
 | 32 | Non-Blocking Valid Proof | PP-SPEC-032 | Published — embargoed until 2026-10-31 | CC BY-ND 4.0 | Private |
 | 33 | [Proof of Efficacy Mapping to the NIST AI RMF](https://github.com/proofprotocol/nist-ai-rmf-mapping) | PP-SPEC-033 | Published (v0.1.2) | CC BY-ND 4.0 | Public |
-| 34 | [Proof of Efficacy Mapping to OWASP AIVSS](https://github.com/proofprotocol/PP-SPEC-034-owasp-aivss-mapping) | PP-SPEC-034 | Draft v0.1 | CC BY 4.0 | Public |
-| 35 | [Proof of Efficacy Mapping to ORCHIDEAS](https://github.com/proofprotocol/PP-SPEC-035-orchideas-mapping) | PP-SPEC-035 | Draft v0.1 | CC BY 4.0 | Public |
-| 36 | [Proof of Efficacy Mapping to AAGATE](https://github.com/proofprotocol/PP-SPEC-036-aagate-mapping) | PP-SPEC-036 | Draft v0.1 | CC BY 4.0 | Public |
-| 37 | [Proof of Efficacy Mapping to A2AS BASIC](https://github.com/proofprotocol/PP-SPEC-037-a2as-basic-mapping) | PP-SPEC-037 | Draft v0.1 | CC BY 4.0 | Public |
-| 38 | [Proof of Efficacy Mapping to Agent Name Service (ANS)](https://github.com/proofprotocol/PP-SPEC-038-ans-mapping) | PP-SPEC-038 | Draft v0.1 | CC BY 4.0 | Public |
-| 39 | [Proof of Efficacy Mapping to MITRE ATLAS](https://github.com/proofprotocol/PP-SPEC-039-mitre-atlas-mapping) | PP-SPEC-039 | Draft v0.1 | CC BY 4.0 | Public |
-| 40 | [Proof of Efficacy Mapping to NIST AI 100-2](https://github.com/proofprotocol/PP-SPEC-040-nist-ai-100-2-mapping) | PP-SPEC-040 | Draft v0.1 | CC BY 4.0 | Public |
-| 41 | [Proof of Efficacy Mapping to OWASP Top 10 for Agentic Applications](https://github.com/proofprotocol/PP-SPEC-041-owasp-agentic-top10-mapping) | PP-SPEC-041 | Draft v0.1 | CC BY 4.0 | Public |
 
-> **Framework-mapping principle:** Threat frameworks are pluggable inputs to Proof Protocol. Proof Protocol is framework-agnostic. External frameworks can identify **what to test**; Proof Protocol independently establishes **whether a control worked and what evidence proves the result**. A mapping establishes interoperability, not architectural dependency.
+### Framework Interoperability Mappings
 
-> **Note on domain implementations:** PP-SPEC numbers identify Proof Protocol specifications. Domain implementations are numbered separately. For example, **DKP-SPEC-001** (Defensible Knowledge Proof) is a domain implementation for agentic AI and cybersecurity and is not part of the PP-SPEC numbering sequence.
+Threat and control frameworks are **pluggable inputs** to Proof Protocol. They can identify **what to test**. Proof Protocol independently establishes **whether the control worked and what evidence proves the result**.
+
+A mapping establishes interoperability — **not architectural dependency**.
+
+| # | Framework Mapping | Document ID | Status | License |
+|---|---|---|---|---|
+| 34 | [OWASP AIVSS](https://github.com/proofprotocol/PP-SPEC-034-owasp-aivss-mapping) | PP-SPEC-034 | Draft v0.1 | CC BY 4.0 |
+| 35 | [ORCHIDEAS](https://github.com/proofprotocol/PP-SPEC-035-orchideas-mapping) | PP-SPEC-035 | Draft v0.1 | CC BY 4.0 |
+| 36 | [AAGATE](https://github.com/proofprotocol/PP-SPEC-036-aagate-mapping) | PP-SPEC-036 | Draft v0.1 | CC BY 4.0 |
+| 37 | [A2AS BASIC](https://github.com/proofprotocol/PP-SPEC-037-a2as-basic-mapping) | PP-SPEC-037 | Draft v0.1 | CC BY 4.0 |
+| 38 | [Agent Name Service (ANS)](https://github.com/proofprotocol/PP-SPEC-038-ans-mapping) | PP-SPEC-038 | Draft v0.1 | CC BY 4.0 |
+| 39 | [MITRE ATLAS](https://github.com/proofprotocol/PP-SPEC-039-mitre-atlas-mapping) | PP-SPEC-039 | Draft v0.1 | CC BY 4.0 |
+| 40 | [NIST AI 100-2 — Adversarial Machine Learning](https://github.com/proofprotocol/PP-SPEC-040-nist-ai-100-2-mapping) | PP-SPEC-040 | Draft v0.1 | CC BY 4.0 |
+| 41 | [OWASP Top 10 for Agentic Applications](https://github.com/proofprotocol/PP-SPEC-041-owasp-agentic-top10-mapping) | PP-SPEC-041 | Draft v0.1 | CC BY 4.0 |
+
+### How the pieces fit
+
+**Threat / control framework → test case → evidence → proof → efficacy result**
+
+Frameworks provide taxonomy and context. Proof Protocol provides the evidence model, validity requirements, witnessing, packaging, anchoring, and efficacy semantics required to turn an assertion into independently examinable proof.
+
+No external framework is required. A Proof Protocol implementation may use one framework, several frameworks, a proprietary threat model, or a sufficiently defined test condition with no external framework.
+
+### Licensing model
+
+**PP-SPEC-001 is the canonical architectural root.** It is published under **CC BY-ND 4.0** so the foundational definition can be redistributed and implemented without competing modified editions being distributed as variants of the specification.
+
+Implementation, interoperability, and mapping specifications may use **CC BY 4.0** where adaptation is desirable. The framework-mapping series **PP-SPEC-034 through PP-SPEC-041** uses CC BY 4.0.
+
+The license applies to the specification text, not ownership of external frameworks or their underlying intellectual property. Referenced frameworks retain their respective upstream rights and licenses.
+
+### Domain implementations
+
+PP-SPEC numbers identify **Proof Protocol specifications**. Domain implementations use their own numbering families rather than consuming PP-SPEC numbers.
+
+For example, **DKP-SPEC-001 (Defensible Knowledge Proof)** is a domain implementation for agentic AI and cybersecurity. Other domains can define their own implementations while relying on the same Proof Protocol architecture.
+
 
 ---
 
