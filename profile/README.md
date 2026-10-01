@@ -72,11 +72,11 @@ A mapping establishes interoperability — **not architectural dependency**.
 | 39 | [MITRE ATLAS](https://github.com/proofprotocol/PP-SPEC-039-mitre-atlas-mapping) | PP-SPEC-039 | Draft v0.1 | CC BY 4.0 |
 | 40 | [NIST AI 100-2 — Adversarial Machine Learning](https://github.com/proofprotocol/PP-SPEC-040-nist-ai-100-2-mapping) | PP-SPEC-040 | Draft v0.1 | CC BY 4.0 |
 | 41 | [OWASP Top 10 for Agentic Applications](https://github.com/proofprotocol/PP-SPEC-041-owasp-agentic-top10-mapping) | PP-SPEC-041 | Draft v0.1 | CC BY 4.0 |
-| 42 | NIST SP 800-207 — Zero Trust Architecture | PP-SPEC-042 | Planned | CC BY 4.0 | Pending |
-| 43 | EU AI Act | PP-SPEC-043 | Planned | CC BY 4.0 | Pending |
-| 44 | SOC 2 / Trust Services Criteria | PP-SPEC-044 | Planned | CC BY 4.0 | Pending |
-| 45 | ISO/IEC 42001 — AI Management Systems | PP-SPEC-045 | Planned | CC BY 4.0 | Pending |
-| 46 | NIST SP 800-207A — Cloud-Native Zero Trust | PP-SPEC-046 | Planned | CC BY 4.0 | Pending |
+| 42 | NIST SP 800-207 — Zero Trust Architecture | PP-SPEC-042 | Draft v0.1 | CC BY 4.0 | Public |
+| 43 | EU AI Act | PP-SPEC-043 | Draft v0.1 | CC BY 4.0 | Public |
+| 44 | SOC 2 / Trust Services Criteria | PP-SPEC-044 | Draft v0.1 | CC BY 4.0 | Public |
+| 45 | ISO/IEC 42001 — AI Management Systems | PP-SPEC-045 | Draft v0.1 | CC BY 4.0 | Public |
+| 46 | NIST SP 800-207A — Cloud-Native Zero Trust | PP-SPEC-046 | Draft v0.1 | CC BY 4.0 | Public |
 
 ### How the pieces fit
 
