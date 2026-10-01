@@ -4,7 +4,9 @@
 
 > **Agents and humans do not trust agents. They trust proof.**
 
-The Proof Protocol is an open technical specification suite for cryptographic, independently witnessed, tamper-evident proof of AI and security-system behavior. It defines what valid proof is, how evidence is captured, how proof is assembled, how it is anchored, and how efficacy is measured across human-operated security tools and autonomous agentic AI systems.
+The Proof Protocol is an open technical specification suite for cryptographic, independently witnessed, tamper-evident proof of AI and security-system behavior. It is **open to implement and extend**, while the foundational architecture in **PP-SPEC-001** is preserved as the canonical, non-derivative specification under **CC BY-ND 4.0**. Implementation, interoperability, and framework-mapping specifications may use more permissive licenses, including **CC BY 4.0**, so the ecosystem can adapt, integrate, and build on the protocol without fragmenting its foundational definition.
+
+Proof Protocol defines what valid proof is, how evidence is captured, how proof is assembled, how it is anchored, and how efficacy is measured across human-operated security tools and autonomous agentic AI systems.
 
 **Proof Protocol is not a blockchain.** No token. No wallet. No chain. No gas fees. Proof is anchored using trusted external infrastructure, including the NIST Randomness Beacon. The stamp is earned, not minted.
 
