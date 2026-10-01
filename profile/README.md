@@ -41,7 +41,7 @@ Proof Protocol uses a numbered specification family. The suite separates the **c
 | 15 | [ProofTwin — Agent Behavioral Attestation Layer](https://github.com/proofprotocol/prooftwin-spec) | PP-SPEC-015 | Draft | CC BY 4.0 | Public |
 | 16 | [AgenTwin — Configurable Agent Under Test](https://github.com/proofprotocol/agentwin-spec) | PP-SPEC-016 | Draft | CC BY 4.0 | Public |
 | 17 | [PP-MCP Interface Standard](https://github.com/proofprotocol/pp-mcp-spec) | PP-SPEC-017 | Draft | CC BY 4.0 | Public |
-| 18–22 | *(in progress, unpublished)* | PP-SPEC-018 – PP-SPEC-022 | Draft (internal) | CC BY-ND 4.0 | Private |
+| 18–22 | *Reserved* | PP-SPEC-018 – PP-SPEC-022 | — | — | — |
 
 ### Architectural, Integrity & Economic Specifications
 
@@ -52,7 +52,7 @@ Proof Protocol uses a numbered specification family. The suite separates the **c
 | 25 | Funding Tier Disclosure Oxymoron | PP-SPEC-025 | Draft — held pending release | CC BY-ND 4.0 | Private |
 | 26 | [Proof-Derived Value and the Speculative Token Fallacy](https://github.com/proofprotocol/Proof-Derived-Value-and-the-Speculative-Token-Fallacy) | PP-SPEC-026 | Published | CC BY-ND 4.0 | Public |
 | 27 | [Proven Efficacy and the Third Axis](https://github.com/proofprotocol/proven-efficacy) | PP-SPEC-027 | Published | CC BY-ND 4.0 | Public |
-| 28–31 | *(not listed publicly)* | PP-SPEC-028 – PP-SPEC-031 | — | — | — |
+| 28–31 | *Reserved* | PP-SPEC-028 – PP-SPEC-031 | — | — | — |
 | 32 | Non-Blocking Valid Proof | PP-SPEC-032 | Published — embargoed until 2026-10-31 | CC BY-ND 4.0 | Private |
 | 33 | [Proof of Efficacy Mapping to the NIST AI RMF](https://github.com/proofprotocol/nist-ai-rmf-mapping) | PP-SPEC-033 | Published (v0.1.2) | CC BY-ND 4.0 | Public |
 
