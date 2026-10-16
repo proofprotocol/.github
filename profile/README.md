@@ -78,6 +78,20 @@ A mapping establishes interoperability — **not architectural dependency**.
 | 45 | ISO/IEC 42001 — AI Management Systems | PP-SPEC-045 | Planned | CC BY 4.0 |
 | 46 | NIST SP 800-207A — Cloud-Native Zero Trust | PP-SPEC-046 | Planned | CC BY 4.0 |
 
+### Canary Series: Proof of Efficacy in Practice
+
+Four specifications that work as one system. **077** tests whether a control stops bad input. **078** tests whether a control contains a bad agent. **079** defines who may run the test, and never the Provider. **080** defines what a reader (insurer, regulator, risk team, Implementor) requires before relying on the result. Evidence is not proof, but proof contains evidence.
+
+| #  | Specification | Document ID | Version | Status | License | DOI |
+| --- | --- | --- | --- | --- | --- | --- |
+| 69-76 | *Reserved* | PP-SPEC-069 - PP-SPEC-076 | - | - | - | - |
+| 77 | [ProofSwarm: The Dead Canary Protocol](https://github.com/proofprotocol/PP-SPEC-077-DEAD-CANARY-PROTOCOL) | PP-SPEC-077 | v0.7.4 | Draft | GGL-C-1.0 | [10.5281/zenodo.23347914](https://doi.org/10.5281/zenodo.23347914) |
+| 78 | [No Bros Jail Mode Protocol: The Jailed Canary Protocol](https://github.com/proofprotocol/PP-SPEC-078-NO-BROS-JAIL-MODE-PROTOCOL) | PP-SPEC-078 | v0.2.3 | Draft | GGL-C-1.0 | [10.5281/zenodo.23347986](https://doi.org/10.5281/zenodo.23347986) |
+| 79 | [Proof of Performance Engagement: The Coal Mine Protocol](https://github.com/proofprotocol/PP-SPEC-079-COAL-MINE-PROTOCOL) | PP-SPEC-079 | v0.1.3 | Draft | GGL-C-1.0 | [10.5281/zenodo.23347697](https://doi.org/10.5281/zenodo.23347697) |
+| 80 | [The Pithead Safety and Acceptance Protocol](https://github.com/proofprotocol/PP-SPEC-080-PITHEAD-SAFETY-AND-ACCEPTANCE-PROTOCOL) | PP-SPEC-080 | v0.1.1 | Draft | GGL-C-1.0 | [10.5281/zenodo.23348072](https://doi.org/10.5281/zenodo.23348072) |
+
+Authored by Craig Ellrod (Nebulonium, Inc., dba HACKERverse). Any use MUST attribute Craig Ellrod, Nebulonium, Inc., and Proof Protocol. Licensed under the Greater Good Commercial License 1.0; specification text CC BY 4.0 under its Part S. Acknowledgements: Tricia Wang and Jim Schwoebel, for the name "No Bros Jail Mode Protocol"; Josh Waldrep (Pipelabs), for his later receipt-based verification work.
+
 ### How the pieces fit
 
 **Threat / control framework → test case → evidence → proof → efficacy result**
@@ -213,7 +227,7 @@ Registry API: [api.proofregister.com/v1/records](https://api.proofregister.com/v
 
 Licensing is defined per specification. The authoritative license is the license declared in the individual repository/specification.
 
-The framework-mapping series **PP-SPEC-034 through PP-SPEC-041** is licensed under **CC BY 4.0**. External frameworks, identifiers, trademarks, and source materials retain their own upstream ownership and licensing.
+The framework-mapping series **PP-SPEC-034 through PP-SPEC-041** is licensed under **CC BY 4.0**. The Canary Series **PP-SPEC-077 through PP-SPEC-080** is licensed under the **Greater Good Commercial License 1.0 (GGL-C-1.0)**, with specification text under CC BY 4.0 per its Part S; patent terms are in each repository's PATENT-SCHEDULE.md. External frameworks, identifiers, trademarks, and source materials retain their own upstream ownership and licensing.
 
 Copyright: **Nebulonium, Inc. (dba HACKERverse®)**
 
