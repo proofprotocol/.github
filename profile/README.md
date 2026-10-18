@@ -1,6 +1,6 @@
 # Proof Protocol
 
-> **Zenodo DOI:** [10.5281/zenodo.21379780](https://doi.org/10.5281/zenodo.21379780) — Published 2026-07-15
+> **Zenodo DOI:** [10.5281/zenodo.21379780](https://doi.org/10.5281/zenodo.21379780) - Published 2026-07-15
 
 > **Agents and humans do not trust agents. They trust proof.**
 
@@ -18,77 +18,22 @@ Maintained under the emerging governance of the **Proof Economy Standards Allian
 
 ## Specification Suite
 
-Proof Protocol uses a numbered specification family. The suite separates the **canonical protocol architecture** from supporting technical specifications, architectural and economic papers, and **framework interoperability mappings**.
+Proof Protocol uses a numbered specification family. Published specifications are listed below; additional specifications are listed as they are released.
 
 ### Core Protocol & Architecture
 
 | # | Specification | Document ID | Status | License | Visibility |
 |---|---|---|---|---|---|
 | 1 | [Proof Protocol Specification](https://github.com/proofprotocol/Proof-Protocol-Specification) | PP-SPEC-001 | Published | CC BY-ND 4.0 | Public |
-| 2 | [Proof Validity Specification](https://github.com/proofprotocol/Proof-Validity-Specification) | PP-SPEC-002 | Published | CC BY 4.0 | Public |
-| 3 | [ProofBundle Format Specification](https://github.com/proofprotocol/proofbundle-spec) | PP-SPEC-003 | Published | CC BY 4.0 | Public |
-| 4 | [ProofRegistry API Specification](https://github.com/proofprotocol/registry-api-spec) | PP-SPEC-004 | Published | CC BY 4.0 | Public |
-| 5 | [Witness Protocol Specification](https://github.com/proofprotocol/witness-spec) | PP-SPEC-005 | Published | CC BY 4.0 | Public |
-| 6 | [Proof of Efficacy Score Specification](https://github.com/proofprotocol/pes-spec) | PP-SPEC-006 | Published | CC BY 4.0 | Public |
-| 7 | [Agent-to-Agent Proof Protocol](https://github.com/proofprotocol/a2p-spec) | PP-SPEC-007 | Published | CC BY 4.0 | Public |
-| 8 | [ProofChain Anchoring Specification](https://github.com/proofprotocol/proofchain-spec) | PP-SPEC-008 | Published | CC BY 4.0 | Public |
-| 9 | [ProofStamp Certification Criteria](https://github.com/proofprotocol/proofstamp-criteria) | PP-SPEC-009 | Published | CC BY 4.0 | Public |
-| 10 | [Legal Attestation Format](https://github.com/proofprotocol/legal-proof-format) | PP-SPEC-010 | Published | CC BY 4.0 | Public |
-| 11 | [Proof Provenance Specification](https://github.com/proofprotocol/provenance-spec) | PP-SPEC-011 | Published | CC BY 4.0 | Public |
-| 12 | [Proof Protocol Domain Framework](https://github.com/proofprotocol/domain-framework) | PP-SPEC-012 | Published | CC BY 4.0 | Public |
-| 13 | Proof of Performance | PP-SPEC-013 | Draft (internal) | CC BY 4.0 | Private |
-| 14 | Proof of Efficacy | PP-SPEC-014 | Draft (internal) | CC BY 4.0 | Private |
-| 15 | [ProofTwin — Agent Behavioral Attestation Layer](https://github.com/proofprotocol/prooftwin-spec) | PP-SPEC-015 | Draft | CC BY 4.0 | Public |
-| 16 | [AgenTwin — Configurable Agent Under Test](https://github.com/proofprotocol/agentwin-spec) | PP-SPEC-016 | Draft | CC BY 4.0 | Public |
-| 17 | [PP-MCP Interface Standard](https://github.com/proofprotocol/pp-mcp-spec) | PP-SPEC-017 | Draft | CC BY 4.0 | Public |
-| 18–22 | *Reserved* | PP-SPEC-018 – PP-SPEC-022 | — | — | — |
-
-### Architectural, Integrity & Economic Specifications
-
-| # | Specification | Document ID | Status | License | Visibility |
-|---|---|---|---|---|---|
-| 23 | [Structural Independence and the Fidelity-at-Capture Requirement](https://github.com/proofprotocol/Fidelity-at-Capture) | PP-SPEC-023 | Published | CC BY-ND 4.0 | Public |
-| 24 | [The Self-Attestation Oxymoron](https://github.com/proofprotocol/Self-Attestation-Oxymoron) | PP-SPEC-024 | Published | CC BY-ND 4.0 | Public |
-| 25 | Funding Tier Disclosure Oxymoron | PP-SPEC-025 | Draft — held pending release | CC BY-ND 4.0 | Private |
-| 26 | [Proof-Derived Value and the Speculative Token Fallacy](https://github.com/proofprotocol/Proof-Derived-Value-and-the-Speculative-Token-Fallacy) | PP-SPEC-026 | Published | CC BY-ND 4.0 | Public |
-| 27 | [Proven Efficacy and the Third Axis](https://github.com/proofprotocol/proven-efficacy) | PP-SPEC-027 | Published | CC BY-ND 4.0 | Public |
-| 28–31 | *Reserved* | PP-SPEC-028 – PP-SPEC-031 | — | — | — |
-| 32 | Non-Blocking Valid Proof | PP-SPEC-032 | Published — embargoed until 2026-10-31 | CC BY-ND 4.0 | Private |
-| 33 | [Proof of Efficacy Mapping to the NIST AI RMF](https://github.com/proofprotocol/nist-ai-rmf-mapping) | PP-SPEC-033 | Published (v0.1.2) | CC BY-ND 4.0 | Public |
-
-### Framework Interoperability Mappings
-
-Threat and control frameworks are **pluggable inputs** to Proof Protocol. They can identify **what to test**. Proof Protocol independently establishes **whether the control worked and what evidence proves the result**.
-
-A mapping establishes interoperability — **not architectural dependency**.
-
-| # | Framework Mapping | Document ID | Status | License |
-|---|---|---|---|---|
-| 34 | [OWASP AIVSS](https://github.com/proofprotocol/PP-SPEC-034-owasp-aivss-mapping) | PP-SPEC-034 | Draft v0.1 | CC BY 4.0 |
-| 35 | [ORCHIDEAS](https://github.com/proofprotocol/PP-SPEC-035-orchideas-mapping) | PP-SPEC-035 | Draft v0.1 | CC BY 4.0 |
-| 36 | [AAGATE](https://github.com/proofprotocol/PP-SPEC-036-aagate-mapping) | PP-SPEC-036 | Draft v0.1 | CC BY 4.0 |
-| 37 | [A2AS BASIC](https://github.com/proofprotocol/PP-SPEC-037-a2as-basic-mapping) | PP-SPEC-037 | Draft v0.1 | CC BY 4.0 |
-| 38 | [Agent Name Service (ANS)](https://github.com/proofprotocol/PP-SPEC-038-ans-mapping) | PP-SPEC-038 | Draft v0.1 | CC BY 4.0 |
-| 39 | [MITRE ATLAS](https://github.com/proofprotocol/PP-SPEC-039-mitre-atlas-mapping) | PP-SPEC-039 | Draft v0.1 | CC BY 4.0 |
-| 40 | [NIST AI 100-2 — Adversarial Machine Learning](https://github.com/proofprotocol/PP-SPEC-040-nist-ai-100-2-mapping) | PP-SPEC-040 | Draft v0.1 | CC BY 4.0 |
-| 41 | [OWASP Top 10 for Agentic Applications](https://github.com/proofprotocol/PP-SPEC-041-owasp-agentic-top10-mapping) | PP-SPEC-041 | Draft v0.1 | CC BY 4.0 |
-| 42 | NIST SP 800-207 — Zero Trust Architecture | PP-SPEC-042 | Planned | CC BY 4.0 |
-| 43 | EU AI Act | PP-SPEC-043 | Planned | CC BY 4.0 |
-| 44 | SOC 2 / Trust Services Criteria | PP-SPEC-044 | Planned | CC BY 4.0 |
-| 45 | ISO/IEC 42001 — AI Management Systems | PP-SPEC-045 | Planned | CC BY 4.0 |
-| 46 | NIST SP 800-207A — Cloud-Native Zero Trust | PP-SPEC-046 | Planned | CC BY 4.0 |
 
 ### Canary Series: Proof of Efficacy in Practice
 
-Four specifications that work as one system. **077** tests whether a control stops bad input. **078** tests whether a control contains a bad agent. **079** defines who may run the test, and never the Provider. **080** defines what a reader (insurer, regulator, risk team, Implementor) requires before relying on the result. Evidence is not proof, but proof contains evidence.
+**077** tests whether a control stops bad input. **078** tests whether a control contains a bad agent. Evidence is not proof, but proof contains evidence.
 
 | #  | Specification | Document ID | Version | Status | License | DOI |
 | --- | --- | --- | --- | --- | --- | --- |
-| 69-76 | *Reserved* | PP-SPEC-069 - PP-SPEC-076 | - | - | - | - |
 | 77 | [ProofSwarm: The Dead Canary Protocol](https://github.com/proofprotocol/PP-SPEC-077-DEAD-CANARY-PROTOCOL) | PP-SPEC-077 | v0.7.4 | Draft | GGL-C-1.0 | [10.5281/zenodo.23347914](https://doi.org/10.5281/zenodo.23347914) |
 | 78 | [No Bros Jail Mode Protocol: The Jailed Canary Protocol](https://github.com/proofprotocol/PP-SPEC-078-NO-BROS-JAIL-MODE-PROTOCOL) | PP-SPEC-078 | v0.2.3 | Draft | GGL-C-1.0 | [10.5281/zenodo.23347986](https://doi.org/10.5281/zenodo.23347986) |
-| 79 | [Proof of Performance Engagement: The Coal Mine Protocol](https://github.com/proofprotocol/PP-SPEC-079-COAL-MINE-PROTOCOL) | PP-SPEC-079 | v0.1.3 | Draft | GGL-C-1.0 | [10.5281/zenodo.23347697](https://doi.org/10.5281/zenodo.23347697) |
-| 80 | [The Pithead Safety and Acceptance Protocol](https://github.com/proofprotocol/PP-SPEC-080-PITHEAD-SAFETY-AND-ACCEPTANCE-PROTOCOL) | PP-SPEC-080 | v0.1.1 | Draft | GGL-C-1.0 | [10.5281/zenodo.23348072](https://doi.org/10.5281/zenodo.23348072) |
 
 Authored by Craig Ellrod (Nebulonium, Inc., dba HACKERverse). Any use MUST attribute Craig Ellrod, Nebulonium, Inc., and Proof Protocol. Licensed under the Greater Good Commercial License 1.0; specification text CC BY 4.0 under its Part S. Acknowledgements: Tricia Wang and Jim Schwoebel, for the name "No Bros Jail Mode Protocol"; Josh Waldrep (Pipelabs), for his later receipt-based verification work.
 
@@ -104,7 +49,7 @@ No external framework is required. A Proof Protocol implementation may use one f
 
 **PP-SPEC-001 is the canonical architectural root.** It is published under **CC BY-ND 4.0** so the foundational definition can be redistributed and implemented without competing modified editions being distributed as variants of the specification.
 
-Implementation, interoperability, and mapping specifications may use **CC BY 4.0** where adaptation is desirable. The framework-mapping series **PP-SPEC-034 through PP-SPEC-041** uses CC BY 4.0.
+Implementation, interoperability, and mapping specifications may use **CC BY 4.0** where adaptation is desirable.
 
 The license applies to the specification text, not ownership of external frameworks or their underlying intellectual property. Referenced frameworks retain their respective upstream rights and licenses.
 
@@ -122,9 +67,7 @@ For example, **DKP-SPEC-001 (Defensible Knowledge Proof)** is a domain implement
 
 | Document | Description |
 |---|---|
-| [Declaration](https://github.com/proofprotocol/DECLARATION) | Founding declaration of the Proof Economy — the problem, thesis, and commitment |
-| [Framework](https://github.com/proofprotocol/FRAMEWORK) | Structural framework governing how proof artifacts are produced, witnessed, and anchored |
-| [Threat Model](https://github.com/proofprotocol/threat-model) | Living catalog of threat categories addressed by Proof Protocol |
+| [Declaration](https://github.com/proofprotocol/DECLARATION) | Founding declaration of the Proof Economy - the problem, thesis, and commitment |
 | [Code of Ethics](https://github.com/proofprotocol/CODE-OF-ETHICS) | Foundational ethical and institutional obligations for recognized Proof Economy participation |
 | [License](https://github.com/proofprotocol/LICENSE) | Licensing policy and specification-level license terms |
 
@@ -162,11 +105,11 @@ ProofRegister is the registry layer for issued proof records and artifacts.
 
 ### Structural Independence
 
-Evidence capture must be structurally independent from the party whose claims are being measured where the proof class requires independent witnessing. See PP-SPEC-023.
+Evidence capture must be structurally independent from the party whose claims are being measured where the proof class requires independent witnessing.
 
 ### Fidelity-at-Capture
 
-Tamper evidence after the fact is not enough. Proof must also address whether the evidence faithfully represented what occurred at the time of capture. See PP-SPEC-023.
+Tamper evidence after the fact is not enough. Proof must also address whether the evidence faithfully represented what occurred at the time of capture.
 
 ---
 
@@ -182,8 +125,6 @@ The following artifacts may be useful evidence, but by themselves do not establi
 - self-controlled roots of trust;
 - scores without disclosed denominator and case-classification methodology; and
 - self-attesting benchmarks where the measured party controls the execution and evidence boundary.
-
-See [PP-SPEC-002 — Proof Validity Specification](https://github.com/proofprotocol/Proof-Validity-Specification) for the applicable validity requirements.
 
 ---
 
@@ -227,7 +168,7 @@ Registry API: [api.proofregister.com/v1/records](https://api.proofregister.com/v
 
 Licensing is defined per specification. The authoritative license is the license declared in the individual repository/specification.
 
-The framework-mapping series **PP-SPEC-034 through PP-SPEC-041** is licensed under **CC BY 4.0**. The Canary Series **PP-SPEC-077 through PP-SPEC-080** is licensed under the **Greater Good Commercial License 1.0 (GGL-C-1.0)**, with specification text under CC BY 4.0 per its Part S; patent terms are in each repository's PATENT-SCHEDULE.md. External frameworks, identifiers, trademarks, and source materials retain their own upstream ownership and licensing.
+The Canary Series **PP-SPEC-077 and PP-SPEC-078** are licensed under the **Greater Good Commercial License 1.0 (GGL-C-1.0)**, with specification text under CC BY 4.0 per its Part S; patent terms are in each repository's PATENT-SCHEDULE.md. External frameworks, identifiers, trademarks, and source materials retain their own upstream ownership and licensing.
 
 Copyright: **Nebulonium, Inc. (dba HACKERverse®)**
 
