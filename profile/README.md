@@ -4,7 +4,7 @@
 
 > **Agents and humans do not trust agents. They trust proof.**
 
-The Proof Protocol is an open technical specification suite for cryptographic, independently witnessed, tamper-evident proof of AI and security-system behavior. It is **open to implement and extend**, while the foundational architecture in **PP-SPEC-001** is preserved as the canonical, non-derivative specification under **CC BY-ND 4.0**. Implementation, interoperability, and framework-mapping specifications may use more permissive licenses, including **CC BY 4.0**, so the ecosystem can adapt, integrate, and build on the protocol without fragmenting its foundational definition.
+The Proof Protocol is an open technical specification suite for cryptographic, independently witnessed, tamper-evident proof of AI and security-system behavior. It is **open to implement and extend**, while the foundational architecture in **PP-SPEC-001** is preserved as the canonical, non-derivative specification under **Apache License 2.0**. Implementation, interoperability, and framework-mapping specifications may use more permissive licenses, including **Apache License 2.0**, so the ecosystem can adapt, integrate, and build on the protocol without fragmenting its foundational definition.
 
 Proof Protocol defines what valid proof is, how evidence is captured, how proof is assembled, how it is anchored, and how efficacy is measured across human-operated security tools and autonomous agentic AI systems.
 
@@ -24,7 +24,7 @@ Proof Protocol uses a numbered specification family. Published specifications ar
 
 | # | Specification | Document ID | Status | License | Visibility |
 |---|---|---|---|---|---|
-| 1 | [Proof Protocol Specification](https://github.com/proofprotocol/Proof-Protocol-Specification) | PP-SPEC-001 | Published | CC BY-ND 4.0 | Public |
+| 1 | [Proof Protocol Specification](https://github.com/proofprotocol/Proof-Protocol-Specification) | PP-SPEC-001 | Published | Apache License 2.0 | Public |
 
 ### Canary Series: Proof of Efficacy in Practice
 
@@ -32,10 +32,10 @@ Proof Protocol uses a numbered specification family. Published specifications ar
 
 | #  | Specification | Document ID | Version | Status | License | DOI |
 | --- | --- | --- | --- | --- | --- | --- |
-| 77 | [ProofSwarm: The Dead Canary Protocol](https://github.com/proofprotocol/PP-SPEC-077-DEAD-CANARY-PROTOCOL) | PP-SPEC-077 | v0.7.4 | Draft | GGL-C-1.0 | [10.5281/zenodo.23347914](https://doi.org/10.5281/zenodo.23347914) |
-| 78 | [No Bros Jail Mode Protocol: The Jailed Canary Protocol](https://github.com/proofprotocol/PP-SPEC-078-NO-BROS-JAIL-MODE-PROTOCOL) | PP-SPEC-078 | v0.2.3 | Draft | GGL-C-1.0 | [10.5281/zenodo.23347986](https://doi.org/10.5281/zenodo.23347986) |
+| 77 | [ProofSwarm: The Dead Canary Protocol](https://github.com/proofprotocol/PP-SPEC-077-DEAD-CANARY-PROTOCOL) | PP-SPEC-077 | v0.7.4 | Draft | Proof Protocol License 1.0 | [10.5281/zenodo.23347914](https://doi.org/10.5281/zenodo.23347914) |
+| 78 | [No Bros Jail Mode Protocol: The Jailed Canary Protocol](https://github.com/proofprotocol/PP-SPEC-078-NO-BROS-JAIL-MODE-PROTOCOL) | PP-SPEC-078 | v0.2.3 | Draft | Proof Protocol License 1.0 | [10.5281/zenodo.23347986](https://doi.org/10.5281/zenodo.23347986) |
 
-Authored by Craig Ellrod (Nebulonium, Inc., dba HACKERverse). Any use MUST attribute Craig Ellrod, Nebulonium, Inc., and Proof Protocol. Licensed under the Greater Good Commercial License 1.0; specification text CC BY 4.0 under its Part S. Acknowledgements: Tricia Wang and Jim Schwoebel, for the name "No Bros Jail Mode Protocol"; Josh Waldrep (Pipelabs), for his later receipt-based verification work.
+Authored by Craig Ellrod (Nebulonium, Inc., dba HACKERverse). Any use MUST attribute Craig Ellrod, Nebulonium, Inc., and Proof Protocol. Licensed under the Proof Protocol License 1.0; specification text Apache License 2.0 under its Part S. Acknowledgements: Tricia Wang and Jim Schwoebel, for the name "No Bros Jail Mode Protocol"; Josh Waldrep (Pipelabs), for his later receipt-based verification work.
 
 ### How the pieces fit
 
@@ -47,9 +47,9 @@ No external framework is required. A Proof Protocol implementation may use one f
 
 ### Licensing model
 
-**PP-SPEC-001 is the canonical architectural root.** It is published under **CC BY-ND 4.0** so the foundational definition can be redistributed and implemented without competing modified editions being distributed as variants of the specification.
+**PP-SPEC-001 is the canonical architectural root.** It is published under **Apache License 2.0** so the foundational definition can be redistributed and implemented without competing modified editions being distributed as variants of the specification.
 
-Implementation, interoperability, and mapping specifications may use **CC BY 4.0** where adaptation is desirable.
+Implementation, interoperability, and mapping specifications may use **Apache License 2.0** where adaptation is desirable.
 
 The license applies to the specification text, not ownership of external frameworks or their underlying intellectual property. Referenced frameworks retain their respective upstream rights and licenses.
 
@@ -168,11 +168,11 @@ Registry API: [api.proofregister.com/v1/records](https://api.proofregister.com/v
 
 Licensing is defined per specification. The authoritative license is the license declared in the individual repository/specification.
 
-The Canary Series **PP-SPEC-077 and PP-SPEC-078** are licensed under the **Greater Good Commercial License 1.0 (GGL-C-1.0)**, with specification text under CC BY 4.0 per its Part S; patent terms are in each repository's PATENT-SCHEDULE.md. External frameworks, identifiers, trademarks, and source materials retain their own upstream ownership and licensing.
+The Canary Series **PP-SPEC-077 and PP-SPEC-078** are licensed under the **Proof Protocol License 1.0**, with specification text under Apache License 2.0 per its Part S; patent terms are in each repository's PATENT-SCHEDULE.md. External frameworks, identifiers, trademarks, and source materials retain their own upstream ownership and licensing.
 
 Copyright: **Nebulonium, Inc. (dba HACKERverse®)**
 
-Attribution: When sharing or adapting material under CC BY 4.0, credit the applicable author / Nebulonium, Inc. (dba HACKERverse®) and indicate changes where required by the license.
+Attribution: When sharing or adapting material under Apache License 2.0, credit the applicable author / Nebulonium, Inc. (dba HACKERverse®) and indicate changes where required by the license.
 
 Creative Commons licensing does not grant trademark rights in **Proof Protocol™**, **ProofStamp™**, **ProofRegister™**, **Proof Economy™**, or related marks.
 
